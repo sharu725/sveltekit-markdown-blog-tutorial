@@ -1,5 +1,8 @@
 ---
-title: Third Post
+title: Where do I invest my money?
+tags:
+  - personal
+  - finanace
 ---
 
 # {title}
