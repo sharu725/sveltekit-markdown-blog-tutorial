@@ -24,6 +24,7 @@
   export let posts;
 </script>
 
+<h1>Blog</h1>
 <ul>
   {#each posts as { path, metadata: { title } }}
     <li>
